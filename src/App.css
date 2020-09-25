@@ -7,7 +7,7 @@ body {
   background: -ms-linear-gradient(left, #f4f0f3, #eaf3f7);
   background: -o-linear-gradient(left, #f4f0f3, #eaf3f7);
   background: linear-gradient(to right, #f4f0f3, #eaf3f7);
-  font-family: 'Mulish', sans-serif;
+  font-family: 'Mulish', sans-serif !important;
 }
 
 .App {

@@ -144,7 +144,7 @@ function EventList(props) {
               />  
               <div className="event-title-sec">
                 <p className="title">
-                Domain <strong>domainId</strong>added.</p>
+                Domain <strong>domainId</strong> added.</p>
                 <p className="date">{list.dateTime}
                 <CopyToClipboard text={`Domain domainId added.`}
                 onCopy={copyToClipboard}>
